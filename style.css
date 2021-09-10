@@ -1,0 +1,10 @@
+.hover {
+    text-decoration: none;
+    text-decoration-color: inherit;
+    border-color: inherit;
+    border-style: dotted;
+    border-width: 0 0 1px;
+    transition: border-color .2s ease-in-out;
+    -moz-transition: border-color .2s ease-in-out;
+    -webkit-transition: border-color .2s ease-in-out;
+}
